@@ -1,9 +1,11 @@
 
-<img src="https://github.com/portijo/portijo/blob/master/assets/personal-logo-2.svg" width="100%" height="144">
+<img src="https://github.com/portijo/portijo/blob/master/assets/personal-logo-2.svg" width="100%" height="345">
 
 <div>
-  <h1>Hi 👋</h1>
+  <h1>Hi, I'm David 👋</h1>
+  I'm a Software developer who enjoys learning new technologies and experiment with them
 </div>
+
 
 
 <!--
