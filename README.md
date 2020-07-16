@@ -2,25 +2,40 @@
 
 <div>
   <h1>Hi, I'm David 👋</h1>
-</div>
-
-<div>
-  <h2>I have experience in :sunglasses:</h2>
-   <ul>
+  
+  <b>I have experience in :sunglasses:</b>
+  <ul>
     <li>React</li>
     <li>SpringBoot</li>
     <li>Node.js</li>
     <li>Azure SQL</li>
   </ul>
-</div>
-
-<div>
-  <h2>Currently I'm learning :mortar_board:</h2>
+  <b>Currently I'm learning :mortar_board:</b>
   <ul>
     <li>React Native</li>
     <li>Svelte</li>
     <li>Flutter</li>
   </ul>
+  <b>Favorite TV Shows :tv:</b>
+   <ul>
+    <li>Seinfeld</li>
+    <li>Friends</li>
+    <li>The Office</li>
+    <li>The Cosby Show</li>
+  </ul>
+  <b>Favorite Anime :tv:</b>
+   <ul>
+    <li>Dragon Ball</li>
+    <li>Steins;Gate</li>
+    <li>Star Blazers</li>
+  </ul>
+</div>
+
+<div>
+
+  <h1>Thanks for stopping by 👋</h1>
+  <img src="https://media.giphy.com/media/B1K1NaIRuj6Cc/giphy.gif" width="100%" height="345">
+
 </div>
 
 <!--
