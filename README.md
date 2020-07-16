@@ -2,7 +2,6 @@
 
 <div>
   <h1>Hi, I'm David 👋</h1>
-  
   <b>I have experience in :sunglasses:</b>
   <ul>
     <li>React</li>
@@ -32,10 +31,8 @@
 </div>
 
 <div>
-
   <h1>Thanks for stopping by 👋</h1>
-  <img src="https://media.giphy.com/media/B1K1NaIRuj6Cc/giphy.gif" width="100%" height="345">
-
+  <img src="https://media.giphy.com/media/B1K1NaIRuj6Cc/giphy.gif" width="50%" />
 </div>
 
 <!--
