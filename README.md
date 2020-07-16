@@ -2,8 +2,6 @@
 
 <div>
   <h1>Hi, I'm David 👋</h1>
-  I'm a Software Developer who enjoys learning new technologies and experiment them
-  <hr />
 </div>
 
 <div>
@@ -17,7 +15,7 @@
 </div>
 
 <div>
-  <h2>Currently Learning :mortar_board:</h2>
+  <h2>Currently I'm learning :mortar_board:</h2>
   <ul>
     <li>React Native</li>
     <li>Svelte</li>
