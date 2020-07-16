@@ -1,6 +1,9 @@
-![Logo](https://github.com/portijo/portijo/blob/master/assets/personal-logo.png)
 
-### Hi there 👋
+<img src="https://github.com/portijo/portijo/blob/master/assets/personal-logo.png" width="100%" height="144">
+
+<div>
+  <h1>Hi 👋</h1>
+</div>
 
 
 <!--
