@@ -1,4 +1,7 @@
+![Logo](https://github.com/portijo/portijo/blob/master/assets/personal-logo.png)
+
 ### Hi there 👋
+
 
 <!--
 **portijo/portijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
