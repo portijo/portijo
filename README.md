@@ -1,12 +1,29 @@
-
 <img src="https://github.com/portijo/portijo/blob/master/assets/personal-logo-2.svg" width="100%" height="345">
 
 <div>
   <h1>Hi, I'm David 👋</h1>
-  I'm a Software developer who enjoys learning new technologies and experiment with them
+  I'm a Software Developer who enjoys learning new technologies and experiment them
+  <hr />
 </div>
 
+<div>
+  <h2>I have experience in :sunglasses:</h2>
+   <ul>
+    <li>React</li>
+    <li>SpringBoot</li>
+    <li>Node.js</li>
+    <li>Azure SQL</li>
+  </ul>
+</div>
 
+<div>
+  <h2>Currently Learning :mortar_board:</h2>
+  <ul>
+    <li>React Native</li>
+    <li>Svelte</li>
+    <li>Flutter</li>
+  </ul>
+</div>
 
 <!--
 **portijo/portijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
