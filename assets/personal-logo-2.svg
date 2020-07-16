@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="head" transform="matrix(2.29184,0,9.37774e-16,2.61399,-124.152,-957.994)">
+        <clipPath id="_clip1">
+            <rect x="184.732" y="459.3" width="88.601" height="60.74"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <ellipse cx="228.799" cy="468.583" rx="42.496" ry="50.337" style="fill:white;stroke:black;stroke-width:2.03px;"/>
+        </g>
+    </g>
+    <g id="glasses-connection" serif:id="glasses connection" transform="matrix(0.705578,0,0,1,117.681,-87.1014)">
+        <path d="M377.207,300.637L422.793,300.637" style="fill:none;stroke:black;stroke-width:2.31px;"/>
+    </g>
+    <g id="nose" transform="matrix(1,0,0,1,-6.62936,-26.5862)">
+        <path d="M400,279.812C398.321,321.72 392.909,348.155 415.24,332.669" style="fill:none;stroke:black;stroke-width:5px;"/>
+    </g>
+    <g id="right-eye" serif:id="right eye" transform="matrix(-0.271497,-0.655452,0.655452,-0.271497,334.838,555.055)">
+        <path d="M376.377,280.046L425.458,300.316L445.787,349.253L425.458,398.19L376.377,418.461L327.297,398.19L306.968,349.253L327.297,300.316L376.377,280.046Z" style="fill:rgb(73,105,111);fill-opacity:0.45;"/>
+        <clipPath id="_clip2">
+            <path d="M376.377,280.046L425.458,300.316L445.787,349.253L425.458,398.19L376.377,418.461L327.297,398.19L306.968,349.253L327.297,300.316L376.377,280.046Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip2)">
+            <g transform="matrix(-0.382683,0.92388,-0.92388,-0.382683,761.209,-18.2384)">
+                <g transform="matrix(1.35671,0,0,1.35671,351.225,-115.551)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,404.478,-57.6338)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,0,0,1.35671,457.764,-115.53)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,457.764,-86.6232)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,457.764,-57.7168)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,351.225,-57.6545)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,404.461,-28.6031)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,457.747,-28.6861)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,351.208,-28.6238)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,404.444,0.389207)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,457.73,0.306246)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,351.192,0.368529)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,404.478,-86.6232)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,-7.21394e-17,7.21394e-17,1.35671,351.225,-86.6026)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.35671,0,0,1.35671,404.478,-115.53)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+            </g>
+        </g>
+        <path d="M376.377,280.046L425.458,300.316L445.787,349.253L425.458,398.19L376.377,418.461L327.297,398.19L306.968,349.253L327.297,300.316L376.377,280.046Z" style="fill:none;stroke:black;stroke-width:2.82px;"/>
+    </g>
+    <g id="left-eye" serif:id="left eye" transform="matrix(-0.271497,-0.655452,0.655452,-0.271497,211.695,555.312)">
+        <path d="M376.377,280.046L425.458,300.316L445.787,349.253L425.458,398.19L376.377,418.461L327.297,398.19L306.968,349.253L327.297,300.316L376.377,280.046Z" style="fill:rgb(73,105,111);fill-opacity:0.45;"/>
+        <clipPath id="_clip3">
+            <path d="M376.377,280.046L425.458,300.316L445.787,349.253L425.458,398.19L376.377,418.461L327.297,398.19L306.968,349.253L327.297,300.316L376.377,280.046Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip3)">
+            <g transform="matrix(-0.497316,1.20063,-1.20063,-0.497316,520.643,237.522)">
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,17.6009,-184.904)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,58.5787,-140.337)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,99.5822,-184.888)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,99.5822,-162.644)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,99.5822,-140.401)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,17.6009,-140.353)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,58.5658,-117.998)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,99.5693,-118.062)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,17.588,-118.014)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,58.553,-95.6885)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,99.5565,-95.7523)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,17.5752,-95.7044)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,58.5787,-162.644)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,17.6009,-162.628)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+                <g transform="matrix(1.04398,-5.55112e-17,5.55112e-17,1.04398,58.5787,-184.888)">
+                    <text x="41.702px" y="209.754px" style="font-family:'AgencyFB-Reg', 'Agency FB', sans-serif;font-stretch:condensed;font-size:22.623px;fill:rgb(57,57,57);">CODE</text>
+                </g>
+            </g>
+        </g>
+        <path d="M376.377,280.046L425.458,300.316L445.787,349.253L425.458,398.19L376.377,418.461L327.297,398.19L306.968,349.253L327.297,300.316L376.377,280.046Z" style="fill:none;stroke:black;stroke-width:2.82px;"/>
+    </g>
+    <g id="mouth" transform="matrix(0.708165,0,0,1,116.823,-35.9676)">
+        <g transform="matrix(1,0,0,1,0,-1.08674)">
+            <path d="M400,388.43L441.419,388.43" style="fill:none;stroke:black;stroke-width:5.77px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-41.419,-1.08674)">
+            <path d="M400,388.43L441.419,388.43" style="fill:none;stroke:black;stroke-width:5.77px;"/>
+        </g>
+    </g>
+    <g transform="matrix(0.966111,0,0,1,-19.9778,-50.5039)">
+        <text id="my-name" serif:id="my name" x="323.285px" y="481.988px" style="font-family:'ForteMT', 'Forte', cursive;font-style:italic;font-size:36px;fill:rgb(164,164,164);fill-opacity:0.3;">David P<tspan x="441.586px 460.553px 472.225px " y="481.988px 481.988px 481.988px ">ort</tspan>illo</text>
+    </g>
+</svg>
