@@ -1,4 +1,4 @@
-<img src="https://github.com/portijo/portijo/blob/master/assets/personal-logo-2.svg" width="100%" height="345">
+<img src="https://github.com/portijo/portijo/blob/master/assets/personal-logo-4-sm.svg" width="100%" height="345">
 
 <div>
   <h1>Hi, I'm David 👋</h1>

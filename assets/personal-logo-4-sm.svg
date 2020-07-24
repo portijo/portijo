@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.520737,0,0,0.48905,-9.35128,-8.37798)">
+        <rect x="0" y="0" width="800" height="323.848" style="fill:rgb(255,112,112);stroke:black;stroke-width:2.97px;"/>
+    </g>
+    <g transform="matrix(0.520737,0,0,0.525916,-9.35128,-7.77477)">
+        <rect x="0" y="300" width="800" height="300" style="fill:rgb(119,239,255);stroke:black;stroke-width:2.87px;"/>
+    </g>
+    <g transform="matrix(0.5,0,0,0.5,0,-255.758)">
+        <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(0,250,255);stroke:black;stroke-width:3px;"/>
+    </g>
+    <g transform="matrix(0.5,0,0,0.5,68.6456,7.10543e-15)">
+        <g transform="matrix(1,0,0,1,-593.943,-300)">
+            <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(0,250,255);stroke:black;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(0.929615,0,0,1,16.3154,124.951)">
+            <text x="150.368px" y="142.866px" style="font-family:'ForteMT', 'Forte', cursive;font-style:italic;font-size:36px;stroke:black;stroke-width:1.04px;stroke-miterlimit:2;">L</text>
+        </g>
+    </g>
+    <g transform="matrix(0.5,0,0,0.5,168.646,-5.68434e-14)">
+        <g transform="matrix(1,0,0,1,-593.943,-300)">
+            <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(0,250,255);stroke:black;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(0.929615,0,0,1,12.0821,124.951)">
+            <text x="150.368px" y="142.866px" style="font-family:'ForteMT', 'Forte', cursive;font-style:italic;font-size:36px;stroke:black;stroke-width:1.04px;stroke-miterlimit:2;">O</text>
+        </g>
+    </g>
+    <g transform="matrix(0.5,0,0,0.5,268.646,-5.68434e-14)">
+        <g transform="matrix(1,0,0,1,-593.943,-300)">
+            <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(0,250,255);stroke:black;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(0.929615,0,0,1,12.2618,124.951)">
+            <text x="150.368px" y="142.866px" style="font-family:'ForteMT', 'Forte', cursive;font-style:italic;font-size:36px;stroke:black;stroke-width:1.04px;stroke-miterlimit:2;">E</text>
+        </g>
+    </g>
+    <g transform="matrix(0.5,0,0,0.5,-31.3544,-4.26326e-14)">
+        <g transform="matrix(1,0,0,1,-593.943,-300)">
+            <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(0,250,255);stroke:black;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(0.929615,0,0,1,9.07533,124.986)">
+            <text x="150.368px" y="142.866px" style="font-family:'ForteMT', 'Forte', cursive;font-style:italic;font-size:36px;stroke:black;stroke-width:1.04px;stroke-miterlimit:2;">W</text>
+        </g>
+    </g>
+    <g transform="matrix(0.5,0,0,0.5,-24.7028,-5.68434e-14)">
+        <g transform="matrix(1,0,0,1,-507.246,-211.515)">
+            <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(255,76,77);stroke:black;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(0.929615,0,0,1,-121.754,178.876)">
+            <text x="387.793px" y="177.425px" style="font-family:'ForteMT', 'Forte', cursive;font-style:italic;font-size:36px;stroke:black;stroke-width:1.04px;stroke-miterlimit:2;"><tspan x="387.793px " y="177.425px ">E</tspan></text>
+        </g>
+    </g>
+    <g transform="matrix(0.5,0,0,0.5,75.2972,-5.68434e-14)">
+        <g transform="matrix(1,0,0,1,-507.246,-211.515)">
+            <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(255,76,77);stroke:black;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(0.929615,0,0,1,-121.754,178.876)">
+            <text x="387.793px" y="177.425px" style="font-family:'ForteMT', 'Forte', cursive;font-style:italic;font-size:36px;stroke:black;stroke-width:1.04px;stroke-miterlimit:2;"><tspan x="387.793px " y="177.425px ">C</tspan></text>
+        </g>
+    </g>
+    <g transform="matrix(0.5,0,0,0.5,175.297,-5.68434e-14)">
+        <g transform="matrix(1,0,0,1,-507.246,-211.515)">
+            <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(255,76,77);stroke:black;stroke-width:3px;"/>
+        </g>
+        <g transform="matrix(0.929615,0,0,1,-129.402,178.859)">
+            <text x="387.793px" y="177.425px" style="font-family:'ForteMT', 'Forte', cursive;font-style:italic;font-size:36px;stroke:black;stroke-width:1.04px;stroke-miterlimit:2;"><tspan x="387.793px " y="177.425px ">M</tspan></text>
+        </g>
+    </g>
+    <g transform="matrix(0.151795,0,0,0.151795,248.376,-33.4031)">
+        <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(0,250,255);stroke:black;stroke-width:9.88px;"/>
+    </g>
+    <g transform="matrix(0.151795,0,0,0.151795,235.215,-46.8347)">
+        <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(0,250,255);stroke:black;stroke-width:9.88px;"/>
+    </g>
+    <g transform="matrix(-0.5,-6.12323e-17,6.12323e-17,-0.5,400,555.758)">
+        <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(255,76,77);stroke:black;stroke-width:3px;"/>
+    </g>
+    <g transform="matrix(-0.151795,-1.85895e-17,1.85895e-17,-0.151795,151.624,333.403)">
+        <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(255,76,77);stroke:black;stroke-width:9.88px;"/>
+    </g>
+    <g transform="matrix(-0.151795,-1.85895e-17,1.85895e-17,-0.151795,164.785,346.835)">
+        <ellipse cx="756.652" cy="555.758" rx="43.348" ry="44.242" style="fill:rgb(255,76,77);stroke:black;stroke-width:9.88px;"/>
+    </g>
+</svg>
